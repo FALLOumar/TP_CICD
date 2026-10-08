@@ -22,4 +22,4 @@ jobs:
       - name: Lister les fichiers après
         run: ls -la
       -name: Lire un fichier
-        run: cat fichier-inexistant.txt
+        run: cat README.md
